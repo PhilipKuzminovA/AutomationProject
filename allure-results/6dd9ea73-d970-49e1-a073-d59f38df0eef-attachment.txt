@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@class=\"ui-menu-item\"]/div[text()='NA']"
+}

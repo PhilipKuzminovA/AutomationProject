@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@class=\"grunion-checkbox-multiple-label checkbox-multiple \"]"
+}
