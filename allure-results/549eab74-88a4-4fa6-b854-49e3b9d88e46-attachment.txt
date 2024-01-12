@@ -1,3 +1,0 @@
-{
-  "text": "testemail1@gmail.com"
-}

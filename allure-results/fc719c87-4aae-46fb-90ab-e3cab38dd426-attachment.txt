@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//*[@class=\"wp-block-jetpack-button wp-block-button\"]/button"
-}

@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//*[@id=\"g4072-qatools-menu\"]/li/div[text()='Cypress']"
-}
